@@ -11,3 +11,4 @@ C:\Users\Gabi\source\repos\Chat spammer\Chat spammer\obj\Debug\Chat spammer.xml
 C:\Users\Gabi\source\repos\Chat spammer\Chat spammer\obj\Debug\Chat spammer.pdb
 C:\Users\Gabi\source\repos\Chat spammer\Chat spammer\obj\Debug\Chat_spammer.count.resources
 C:\Users\Gabi\source\repos\Chat spammer\Chat spammer\obj\Debug\Chat_spammer.start.resources
+C:\Users\Gabi\source\repos\Chat spammer\Chat spammer\obj\Debug\Chat spammer.vbprojAssemblyReference.cache

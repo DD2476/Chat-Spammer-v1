@@ -43,6 +43,7 @@
 
             Button1.Enabled = True
             Button2.Enabled = False
+            Button3.Enabled = True
 
         End If
 
