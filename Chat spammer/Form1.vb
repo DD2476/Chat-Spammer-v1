@@ -143,7 +143,12 @@
         TextBox1.Enabled = True
         TextBox2.Enabled = True
         TextBox3.Enabled = True
-        TextBox4.Enabled = True
+
+        If CheckBox2.Checked = True Then
+
+            TextBox4.Enabled = True
+
+        End If
 
         spam.Stop()
 
