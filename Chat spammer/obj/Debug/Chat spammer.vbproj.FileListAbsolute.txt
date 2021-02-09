@@ -1,0 +1,13 @@
+C:\Users\Gabi\source\repos\Chat spammer\Chat spammer\bin\Debug\Chat spammer.exe.config
+C:\Users\Gabi\source\repos\Chat spammer\Chat spammer\bin\Debug\Chat spammer.exe
+C:\Users\Gabi\source\repos\Chat spammer\Chat spammer\bin\Debug\Chat spammer.pdb
+C:\Users\Gabi\source\repos\Chat spammer\Chat spammer\bin\Debug\Chat spammer.xml
+C:\Users\Gabi\source\repos\Chat spammer\Chat spammer\obj\Debug\Chat_spammer.Form1.resources
+C:\Users\Gabi\source\repos\Chat spammer\Chat spammer\obj\Debug\Chat_spammer.Resources.resources
+C:\Users\Gabi\source\repos\Chat spammer\Chat spammer\obj\Debug\Chat spammer.vbproj.GenerateResource.cache
+C:\Users\Gabi\source\repos\Chat spammer\Chat spammer\obj\Debug\Chat spammer.vbproj.CoreCompileInputs.cache
+C:\Users\Gabi\source\repos\Chat spammer\Chat spammer\obj\Debug\Chat spammer.exe
+C:\Users\Gabi\source\repos\Chat spammer\Chat spammer\obj\Debug\Chat spammer.xml
+C:\Users\Gabi\source\repos\Chat spammer\Chat spammer\obj\Debug\Chat spammer.pdb
+C:\Users\Gabi\source\repos\Chat spammer\Chat spammer\obj\Debug\Chat_spammer.count.resources
+C:\Users\Gabi\source\repos\Chat spammer\Chat spammer\obj\Debug\Chat_spammer.start.resources
