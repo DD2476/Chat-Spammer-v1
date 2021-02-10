@@ -51,8 +51,17 @@
 
     Private Sub always_Tick(sender As Object, e As EventArgs) Handles always.Tick
 
-        mi = min.Text
-        ma = max.Text + 1
+        If min.Text <> "" Then
+
+            mi = min.Text
+
+        End If
+
+        If max.Text <> "" Then
+
+            ma = max.Text + 1
+
+        End If
 
         If TextBox1.Text <> "" Then
 
