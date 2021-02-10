@@ -35,7 +35,7 @@
 
             spam.Stop()
 
-            spam.Stop()
+            Me.WindowState = FormWindowState.Normal
 
             min.Enabled = True
             max.Enabled = True
