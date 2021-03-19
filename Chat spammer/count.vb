@@ -13,7 +13,10 @@
 
         If i < ma + 1 Then
 
-            SendKeys.Send(i)
+            My.Computer.Clipboard.Clear()
+            My.Computer.Clipboard.SetText(i.ToString())
+
+            SendKeys.Send("^v")
 
             If CheckBox1.Checked = True Then
 

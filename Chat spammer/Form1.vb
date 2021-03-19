@@ -53,7 +53,11 @@
 
         End If
 
-        spam.Interval = TextBox3.Text
+        If TextBox3.Text > 0 Then
+
+            spam.Interval = TextBox3.Text
+
+        End If
 
         If act = True Then
 
@@ -75,7 +79,10 @@
 
         If b < a Then
 
-            SendKeys.Send(TextBox1.Text)
+            My.Computer.Clipboard.Clear()
+            My.Computer.Clipboard.SetText(TextBox1.Text)
+
+            SendKeys.Send("^v")
 
             If CheckBox1.Checked = True Then
 
@@ -87,7 +94,10 @@
 
                 Threading.Thread.Sleep(spam.Interval)
 
-                SendKeys.Send(TextBox4.Text)
+                My.Computer.Clipboard.Clear()
+                My.Computer.Clipboard.SetText(TextBox4.Text)
+
+                SendKeys.Send("^v")
 
                 If CheckBox1.Checked = True Then
 
